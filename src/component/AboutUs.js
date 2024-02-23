@@ -12,7 +12,7 @@ const AboutUs = () => {
         <div className='container'>
             <div className='row'>
                 <div className='col-12 col-lg-5 text-center our-service-leftside-img'>
-                    <img src='https://picsum.photos/seed/picsum/200/300' alt='aboutus Img'/>
+                    <img src='https://images.unsplash.com/photo-1707871922205-98ccf8f466f7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='aboutus Img'/>
                 </div>
 
                 <div className='col-12 col-lg-7 our-services-list'>
@@ -87,7 +87,7 @@ const AboutUs = () => {
                 </div>
 
                 <div className='col-12 col-lg-5 text-center our-service-leftside-img'>
-                    <img src='https://picsum.photos/seed/picsum/200/300' alt='aboutus Img'/>
+                    <img src='https://images.unsplash.com/photo-1707871922205-98ccf8f466f7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='aboutus Img'/>
                 </div>
             </div>
         </div>

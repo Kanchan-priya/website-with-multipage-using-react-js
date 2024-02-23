@@ -12,7 +12,7 @@ const Contact = () => {
                                     <h1 className='main-heading fw-bold'>Contact with our <br /> sales team</h1>
                                     <p className='main-hero-para'>Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator</p>
                                     <figure>
-                                        <img src='https://picsum.photos/200/300' alt='ConatctusImg' className='img-fluid' />
+                                        <img src='https://images.unsplash.com/photo-1487611459768-bd414656ea10?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='ConatctusImg' className='img-fluid' />
                                     </figure>
                                 </div>
 

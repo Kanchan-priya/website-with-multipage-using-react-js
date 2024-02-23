@@ -24,8 +24,8 @@ const Header = () => {
 
 
                 <div className='col-12 col-lg-6 header-right-side d-flex justify-content-center  align-item-center'>
-                    <img src='https://picsum.photos/400/500' alt='' className='img-fluid'/>
-                    <img src='https://picsum.photos/300/500' alt='' className='img-fluid'/>
+                    <img src='https://images.unsplash.com/photo-1707926578532-1475f78b4b14?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='' className='img-fluid'/>
+                    <img src='https://plus.unsplash.com/premium_photo-1664094921465-40ae9484ab97?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='' className='img-fluid'/>
 
                 </div>
 
